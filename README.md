@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bafilaa i'm 17
 
 - 👀 I’m interest Computer Science &ML
-- 🌱 I’m a beginner
+- 🌱 Currently started with Java script
 - 💞️ I’m looking to collaborate in projects 
   
 
